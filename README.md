@@ -1,5 +1,5 @@
 # Aisle-Project
-Problem 2
+### Problem 2
 
 This repository contains the code solution for the Problem 2 ( Game of Life ) of the Developer Challenge.
 
